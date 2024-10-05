@@ -1,0 +1,3 @@
+- Elementary Linear Algebra by Howard Anton, 6th edition
+- [Linear Algebra series by 3Blue1Brown](https://www.3blue1brown.com/topics/linear-algebra)
+- [GeoGebra](https://www.geogebra.org/graphing?lang=en) for graphing 
